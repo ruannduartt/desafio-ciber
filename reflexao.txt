@@ -1,0 +1,9 @@
+# Reflexão final
+
+- A defesa eficaz é menos sobre comprar a ferramenta mais cara e mais sobre processo, disciplina e cultura. 
+
+- As tecnologias reduzem a superfície de ataque; as pessoas e os processos determinam se as falhas serão percebidas e contidas a tempo. 
+
+- Uma boa documentação defensiva responde a quatro perguntas para cada medida: o que ela protege, o que ela não protege, quem é responsável por ela e como sabemos que está funcionando. 
+
+- Se alguma dessas respostas falta, há um ponto cego, e é nos pontos cegos que os incidentes acontecem.
